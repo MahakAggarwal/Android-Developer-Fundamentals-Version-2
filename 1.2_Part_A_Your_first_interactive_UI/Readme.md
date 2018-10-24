@@ -1,4 +1,4 @@
-#1.2 Part A: Your first interactive UI#
+# 1.2 Part A: Your first interactive UI
 
 * Task 1: Create and explore a new project
 * Task 2: Add View elements in the layout editor

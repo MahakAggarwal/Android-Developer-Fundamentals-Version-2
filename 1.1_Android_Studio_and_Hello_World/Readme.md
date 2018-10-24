@@ -1,4 +1,4 @@
-#1.1: Android Studio and Hello World#
+# 1.1: Android Studio and Hello World
 
 * Task 1: Install Android Studio
 * Task 2: Create the Hello World app

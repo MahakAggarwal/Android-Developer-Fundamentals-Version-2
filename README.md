@@ -12,7 +12,7 @@ Mahak Aggarwal
 * __Android Version:__ Varies from project to project
 * __Android Studio Version:__ 3.1.4
 * __Gradle Version:__ 4.4
-* __Target SDK Version:__ 27 (from section 1.1 to 3.2) and 28 (section 3.3 onwards)
+* __Target SDK Version:__ Varies from project to project
 
 Projects which are completed have some notes within parentheses after the project listing.
 Also note that this repository is a work in progress and I will be adding more tasks and coding challenges as I finish them.

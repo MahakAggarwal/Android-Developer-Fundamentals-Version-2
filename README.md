@@ -24,8 +24,8 @@ __Note:__ I will upload projects for version 1 of the course if they are dissimi
 All the projects in this repository will target API 21 and later (Android 5.0 Lollipop).
 
 # Contents
-* 1.1 Android Studio and Hello World __(not complete yet)__
-* 1.2 Part A Your first interactive UI __(not complete yet)__
+* 1.1 Android Studio and Hello World
+* 1.2 Part A Your first interactive UI
 * 1.2 Part B The layout editor __(not complete yet)__
 * 1.3 Text and scrolling views __(not complete yet)__
 * 1.4 Learn to help yourself __(not complete yet)__
@@ -35,7 +35,7 @@ All the projects in this repository will target API 21 and later (Android 5.0 Lo
 * 3.1 The debugger __(not complete yet)__
 * 3.2 Unit tests __(not complete yet)__
 * 3.3 Support libraries __(not complete yet)__
-* 4.1 Clickable images __(not complete yet)__
+* 4.1 Clickable images
 * 4.2 Input controls __(not complete yet)__
 * 4.3 Menus and pickers __(not complete yet)__
 * 4.4 User navigation __(not complete yet)__

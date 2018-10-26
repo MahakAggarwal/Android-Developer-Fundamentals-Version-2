@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ManagingStateHW</string>
+    <string name="number">0</string>
+    <string name="count">Count</string>
+    <string name="enter_text_here">Enter text here</string>
+</resources>

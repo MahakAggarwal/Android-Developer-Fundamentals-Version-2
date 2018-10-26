@@ -28,7 +28,7 @@ All the projects in this repository will target API 21 and later (Android 5.0 Lo
 * 1.2 Part A Your first interactive UI
 * 1.2 Part B The layout editor
 * 1.3 Text and scrolling views
-* 1.4 Learn to help yourself __(not complete yet)__
+* 1.4 Learn to help yourself
 * 2.1 Activities and intents __(not complete yet)__
 * 2.2 Activity lifecycle and state __(not complete yet)__
 * 2.3 Implicit intents __(not complete yet)__

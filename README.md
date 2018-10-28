@@ -31,10 +31,10 @@ All the projects in this repository will target API 21 and later (Android 5.0 Lo
 * 1.4 Learn to help yourself
 * 2.1 Activities and intents
 * 2.2 Activity lifecycle and state
-* 2.3 Implicit intents __(not complete yet)__
-* 3.1 The debugger __(not complete yet)__
-* 3.2 Unit tests __(not complete yet)__
-* 3.3 Support libraries __(not complete yet)__
+* 2.3 Implicit intents
+* 3.1 The debugger
+* 3.2 Unit tests
+* 3.3 Support libraries
 * 4.1 Clickable images
 * 4.2 Input controls __(not complete yet)__
 * 4.3 Menus and pickers __(not complete yet)__

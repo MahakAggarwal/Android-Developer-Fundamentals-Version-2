@@ -1,0 +1,5 @@
+Q1 - What is the difference between Step Over and Step Into?
+A1 - Step over is used to advance to the next line in the code without entering the method call. Step into is used to advance to the first line of code inside the method call.
+
+Q2 - How does each part of the debugger view change when you step into a new method?
+A2 - The debugger view shows the stack trace and the variables change when stepped into a new method. Also, the class which contains the method is opened and highlighted.

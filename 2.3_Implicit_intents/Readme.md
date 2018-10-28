@@ -6,4 +6,4 @@
 * Task 4: Implement the Share This Text button -->*(Project: ImplicitIntents)*
 * Task 5: Receive an implicit Intent -->*(Project: ImplicitIntentsReceiver)*
 * Coding challenge -->*(Project: ShoppingListV2)*
-* Homework
+* Homework -->*(Project: ImplicitIntentsHW)*

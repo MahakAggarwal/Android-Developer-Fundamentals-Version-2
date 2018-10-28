@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Calc</string>
+    <string name="type_operand_one_hint">Type Operand 1</string>
+    <string name="type_operand_two_hint">Type Operand 2</string>
+    <string name="add_operation_text">Add</string>
+    <string name="sub_operation_text">Sub</string>
+    <string name="div_operation_text">Div</string>
+    <string name="mul_operation_text">Mul</string>
+    <string name="computationError">Error</string>
+    <string name="blank">Blank field(s)</string>
+    <string name="power">Power</string>
+</resources>

@@ -1,0 +1,5 @@
+Q1 - Based on your exploration in the debugger, how does the Android platform decide which implementation to use in the Compat classes?
+A1 - Android decides this based on the build number of the android version. This is specified in the ContextCompat java class.
+
+Q2 - Besides the differences in the method signatures, what is the difference between the implementations? Why is a compatibility class required at all?
+A2 - Compatibility classes are required to make sure that the application works as intented on devices which have different android versions. Compatibility makes sure that new features can be integrated with the old ones. 

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Input Controls Coding Challenge</string>
+    <string name="call">Call</string>
+    <string name="enter_phone_number">Enter phone number</string>
+</resources>

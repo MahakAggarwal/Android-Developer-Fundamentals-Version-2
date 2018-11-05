@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/context_edit"
+        android:title="@string/edit"
+        android:orderInCategory="10"
+        />
+
+    <item
+        android:id="@+id/context_share"
+        android:title="@string/share"
+        android:orderInCategory="20"
+        />
+
+    <item
+        android:id="@+id/context_delete"
+        android:title="@string/delete"
+        android:orderInCategory="30"
+        />
+
+</menu>

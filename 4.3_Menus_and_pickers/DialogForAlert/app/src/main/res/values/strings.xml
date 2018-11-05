@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dialog For Alert</string>
+    <string name="hello_world">Hello World! Tap tp test alert</string>
+    <string name="alert">Alert</string>
+</resources>

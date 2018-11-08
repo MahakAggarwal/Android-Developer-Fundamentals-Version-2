@@ -38,7 +38,7 @@ All the projects in this repository will target API 21 and later (Android 5.0 Lo
 * 4.1 Clickable images
 * 4.2 Input controls
 * 4.3 Menus and pickers
-* 4.4 User navigation __(not complete yet)__
+* 4.4 User navigation
 * 4.5 RecyclerView __(not complete yet)__
 * 5.1 Drawables, styles, and themes __(not complete yet)__
 * 5.2 Cards and colors __(not complete yet)__

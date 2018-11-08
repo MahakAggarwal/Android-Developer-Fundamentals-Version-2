@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Order Navigation</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">Donut</string>
+    <string name="title_activity_third">FroYo</string>
+    <string name="title_activity_fourth">Ice Cream Sandwich</string>
+    <string name="android_ice_cream_sandwich">Android Ice Cream Sandwich</string>
+    <string name="android_froyo">Android FroYo</string>
+    <string name="android_donut">Android donut</string>
+</resources>

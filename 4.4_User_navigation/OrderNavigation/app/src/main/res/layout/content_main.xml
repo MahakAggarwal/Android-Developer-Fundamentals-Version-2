@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    tools:layout_editor_absoluteY="81dp"
+    tools:showIn="@layout/activity_main">
+
+    <android.support.v7.widget.GridLayout
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:columnCount="3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:rowCount="1">
+
+        <ImageView
+            android:id="@+id/imageView_donut"
+            android:contentDescription="@string/android_donut"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClickImage"
+            app:layout_columnWeight="1"
+            app:srcCompat="@drawable/donut_circle" />
+
+        <ImageView
+            android:id="@+id/imageView_froyo"
+            android:contentDescription="@string/android_froyo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClickImage"
+            app:layout_columnWeight="1"
+            app:srcCompat="@drawable/froyo_circle" />
+
+        <ImageView
+            android:id="@+id/imageView_ics"
+            android:contentDescription="@string/android_ice_cream_sandwich"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClickImage"
+            app:layout_columnWeight="1"
+            app:srcCompat="@drawable/icecream_circle" />
+    </android.support.v7.widget.GridLayout>
+</android.support.constraint.ConstraintLayout>

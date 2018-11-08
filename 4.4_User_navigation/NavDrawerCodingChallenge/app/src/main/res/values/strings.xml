@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Nav Drawer Coding Challenge</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="gallery_text_value">You selected gallery</string>
+    <string name="camera_text_value">You selected camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="tools">Tools</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="slideshow_text">You selected slideshow</string>
+    <string name="tools_text">You selected tools</string>
+    <string name="share_text">You selected share</string>
+    <string name="send_text">You selected send</string>
+    <string name="camera">Camera</string>
+</resources>

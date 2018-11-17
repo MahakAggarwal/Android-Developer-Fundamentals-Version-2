@@ -14,11 +14,10 @@ Mahak Aggarwal
 * __Gradle Version:__ 4.4
 * __Target SDK Version:__ Varies from project to project
 
-Projects which are completed have some notes within parentheses after the project listing.
+
 Projects for section 1.1 to 3.3 are from version 1 of the course. Not repeated because of similarities. These projects are mostly the same as version 2 but with minor changes. Projects after section 3.3 are from version 2 of the course. 
 Also note that this repository is a work in progress and I will be adding more tasks and coding challenges as I finish them.
 
-__Note:__ I will upload projects for version 1 of the course if they are dissimilar to the ones already uploaded. The version 1 projects will be provided in a seperate repository.
 
 # Android Version
 All the projects in this repository will target API 21 and later (Android 5.0 Lollipop).

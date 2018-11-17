@@ -20,7 +20,7 @@ Also note that this repository is a work in progress and I will be adding more t
 
 
 # Android Version
-All the projects in this repository will target API 21 and later (Android 5.0 Lollipop).
+Some projects in this repository will target Android API 19 and later while others will target API 21 and later.
 
 # Contents
 * 1.1 Android Studio and Hello World

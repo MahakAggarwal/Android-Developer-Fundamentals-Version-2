@@ -39,7 +39,7 @@ Some projects in this repository will target Android API 19 and later while othe
 * 4.3 Menus and pickers
 * 4.4 User navigation
 * 4.5 RecyclerView
-* 5.1 Drawables, styles, and themes __(not complete yet)__
+* 5.1 Drawables, styles, and themes
 * 5.2 Cards and colors __(not complete yet)__
 * 5.3 Adaptive layouts __(not complete yet)__
 * 6.1 Espresso for UI testing __(not complete yet)__

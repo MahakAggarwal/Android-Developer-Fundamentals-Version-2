@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Transitions Animations</string>
+    <string name="circle">Circle</string>
+    <string name="line">line</string>
+    <string name="square">square</string>
+    <string name="android_icon">Android icon</string>
+</resources>

@@ -41,7 +41,7 @@ Some projects in this repository will target Android API 19 and later while othe
 * 4.5 RecyclerView
 * 5.1 Drawables, styles, and themes
 * 5.2 Cards and colors
-* 5.3 Adaptive layouts __(not complete yet)__
+* 5.3 Adaptive layouts
 * 6.1 Espresso for UI testing __(not complete yet)__
 * 7.1 AsyncTask __(not complete yet)__
 * 7.2 AsyncTask and AsyncTaskLoader __(not complete yet)__

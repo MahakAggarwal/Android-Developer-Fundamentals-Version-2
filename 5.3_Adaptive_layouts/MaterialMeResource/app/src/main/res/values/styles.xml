@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowSharedElementEnterTransition">
+            @transition/shared_element</item>
+        <item name="android:windowSharedElementExitTransition">
+            @transition/shared_element</item>
+    </style>
+    
+    <style name="SportsDetailText" parent="TextAppearance.AppCompat.Subhead" />
+    <style name="SportsTitle" parent="TextAppearance.AppCompat.Headline" />
+    <style name="SportsDetailTitle" parent="TextAppearance.AppCompat.Headline"/>
+
+
+</resources>

@@ -44,7 +44,7 @@ Some projects in this repository will target Android API 19 and later while othe
 * 5.3 Adaptive layouts
 * 6.1 Espresso for UI testing
 * 7.1 AsyncTask
-* 7.2 AsyncTask and AsyncTaskLoader __(not complete yet)__
+* 7.2 AsyncTask and AsyncTaskLoader
 * 7.3 Broadcast receivers __(not complete yet)__
 * 8.1 Notifications __(not complete yet)__
 * 8.2 The alarm manager __(not complete yet)__

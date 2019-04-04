@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stand Up!</string>
+    <string name="alarm_on">Alarm On</string>
+    <string name="alarm_off">Alarm Off</string>
+    <string name="stand_up_on">Stand up Alarm On!</string>
+    <string name="stand_up_off">Stand up Alarm Off!</string>
+    <string name="notification_title">Stand Up Alert</string>
+    <string name="notification_message">You should stand up and walk around now.</string>
+    <string name="channel_desc">Notifies every 15 minutes to stand up and walk</string>
+    <string name="channel_name">Stand Up Notification</string>
+</resources>

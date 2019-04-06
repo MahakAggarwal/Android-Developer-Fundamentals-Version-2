@@ -47,7 +47,7 @@ Some projects in this repository will target Android API 19 and later while othe
 * 7.2 AsyncTask and AsyncTaskLoader
 * 7.3 Broadcast receivers
 * 8.1 Notifications
-* 8.2 The alarm manager __(not complete yet)__
+* 8.2 The alarm manager
 * 8.3 JobScheduler __(not complete yet)__
 * 9.1 Shared preferences __(not complete yet)__
 * 9.2 App settings __(not complete yet)__

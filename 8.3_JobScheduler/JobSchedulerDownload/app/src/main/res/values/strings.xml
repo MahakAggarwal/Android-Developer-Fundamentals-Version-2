@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Job Scheduler Download</string>
+    <string name="download_now">Download Now!</string>
+    <string name="channel_desc">Large file download notification</string>
+    <string name="channel_name">Download Notification</string>
+    <string name="notify_title">Performing Work</string>
+    <string name="notify_text">Download in Progress</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Score Keeper HW Shared Pref</string>
+    <string name="team_1">Team 1</string>
+    <string name="minus_button">Minus Button</string>
+    <string name="initial_value">0</string>
+    <string name="plus_button">Plus Button</string>
+    <string name="team_2">Team 2</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="day_mode">Day Mode</string>
+    <string name="reset">Reset</string>
+</resources>

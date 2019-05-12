@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HelloSharedPrefs</string>
+    <string name="blue_button">Blue</string>
+    <string name="green_button">Green</string>
+    <string name="red_button">Red</string>
+    <string name="black_button">Black</string>
+    <string name="default_count">0</string>
+    <string name="count_button">Count</string>
+    <string name="reset_button">Reset</string>
+    <string name="settings">Settings</string>
+    <string name="background_color">Background Color:</string>
+    <string name="save_count_value">Save count value</string>
+    <string name="save">Save</string>
+    <string name="reset">Reset</string>
+    <string name="settings_saved">Settings saved!</string>
+    <string name="settings_reset">All settings are set to default</string>
+
+    <string-array name="color_array">
+        <item>Default</item>
+        <item>Black</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+
+</resources>

@@ -49,7 +49,7 @@ Some projects in this repository will target Android API 19 and later while othe
 * 8.1 Notifications
 * 8.2 The alarm manager
 * 8.3 JobScheduler
-* 9.1 Shared preferences __(not complete yet)__
+* 9.1 Shared preferences
 * 9.2 App settings __(not complete yet)__
 * 10.1 Part A Room, LiveData, and ViewModel __(not complete yet)__
 * 10.1 Part B Deleting data from a Room database __(not complete yet)__

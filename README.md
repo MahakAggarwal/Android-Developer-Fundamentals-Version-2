@@ -10,7 +10,7 @@ Mahak Aggarwal
 
 # Additional Notes
 * __Android Version:__ Varies from project to project
-* __Android Studio Version:__ 3.1.4
+* __Android Studio Version:__ 3.1.4 and above (AS is updated when a new stable version is released)
 * __Gradle Version:__ 4.4
 * __Target SDK Version:__ Varies from project to project
 
@@ -19,7 +19,7 @@ Projects for section 1.1 to 3.3 are from version 1 of the course. Not repeated b
 Also note that this repository is a work in progress and I will be adding more tasks and coding challenges as I finish them.
 
 
-# Android Version
+# Android Version (Target API)
 Some projects in this repository will target Android API 19 and later while others will target API 21 and later.
 
 # Contents

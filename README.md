@@ -10,7 +10,7 @@ Mahak Aggarwal
 
 # Additional Notes
 * __Android Version:__ Varies from project to project
-* __Android Studio Version:__ 3.1.4 and above (AS is updated when a new stable version is released)
+* __Android Studio Version:__ 3.1.4 and above (Android Studio is updated when a new stable version is released)
 * __Gradle Version:__ 4.4
 * __Target SDK Version:__ Varies from project to project
 

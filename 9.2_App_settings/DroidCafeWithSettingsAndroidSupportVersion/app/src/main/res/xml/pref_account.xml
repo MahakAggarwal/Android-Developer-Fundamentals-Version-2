@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="US"
+        android:entries="@array/pref_market_titles"
+        android:entryValues="@array/pref_market_values"
+        android:key="sync_frequency"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null"
+        android:title="@string/pref_title_account" />
+
+    <Preference android:title="@string/pref_title_account_settings">
+        <intent android:action="android.settings.SYNC_SETTINGS" />
+    </Preference>
+
+</PreferenceScreen>

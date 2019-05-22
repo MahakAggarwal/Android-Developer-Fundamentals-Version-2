@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <SwitchPreferenceCompat
+        app:defaultValue="true"
+        app:key="example_switch"
+        app:title="@string/pref_title_social_recommendations"
+        app:summary="@string/pref_description_social_recommendations" />
+
+    <EditTextPreference
+        app:defaultValue="@string/pref_default_display_name"
+        app:key="example_text"
+        app:useSimpleSummaryProvider="true"
+        app:title="@string/pref_title_display_name" />
+
+    <ListPreference
+        app:defaultValue="-1"
+        app:entries="@array/pref_example_list_titles"
+        app:entryValues="@array/pref_example_list_values"
+        app:key="example_list"
+        app:useSimpleSummaryProvider="true"
+        app:title="@string/pref_title_add_friends_to_messages" />
+
+    <ListPreference
+        app:defaultValue="Same day messenger service"
+        app:entries="@array/pref_delivery_titles"
+        app:key="delivery_list"
+        app:useSimpleSummaryProvider="true"
+        app:entryValues="@array/pref_delivery_titles"
+        app:title="@string/choose_delivery_method" />
+
+    </androidx.preference.PreferenceScreen>

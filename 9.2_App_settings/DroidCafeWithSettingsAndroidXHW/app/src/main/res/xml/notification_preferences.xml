@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <SwitchPreferenceCompat
+        app:defaultValue="true"
+        app:key="notifications_new_message"
+        app:title="@string/pref_title_new_message_notifications" />
+
+    <SwitchPreferenceCompat
+        app:defaultValue="true"
+        app:dependency="notifications_new_message"
+        app:key="notifications_new_message_vibrate"
+        app:title="@string/pref_title_vibrate" />
+
+</androidx.preference.PreferenceScreen>

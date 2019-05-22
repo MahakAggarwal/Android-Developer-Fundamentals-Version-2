@@ -2,8 +2,10 @@
 
 * Task 1: Add a switch setting to an app -->*(Project: AppWithSettings)*
 * Task 2: Use the Settings Activity template -->*(Project: DroidCafeWithSettingsAndroidSupportVersion and DroidCafeWithSettingsAndroidX)*
-* Coding challenge -->*(Project: DroidCafeWithSettingsCC)*
-* Homework -->*(Project: DroidCafeWithSettingsHW)*
+* Coding challenge -->*(Project: DroidCafeWithSettingsAndroidX)*
+* Homework -->*(Project: DroidCafeWithSettingsAndroidXHW)*
 
-Note - for task 2, there are two projects. DroidCafeWithSettingsAndroidSupportVersion uses the now deprecated android support libraries whereas DroidCafeWithSettingsAndroidX uses Android Jetpack's androidx libraries. 
-The coding challenge and the homework uses androidx libraries.
+Notes
+1. for task 2, there are two projects. DroidCafeWithSettingsAndroidSupportVersion uses the now deprecated android support libraries whereas DroidCafeWithSettingsAndroidX uses Android Jetpack's androidx libraries. 
+2. Coding challenge requires the up navigation to work properly. This error is addressed when using AndroidX and therefore no changes are required.
+3. Homework uses AndroidX libraries.

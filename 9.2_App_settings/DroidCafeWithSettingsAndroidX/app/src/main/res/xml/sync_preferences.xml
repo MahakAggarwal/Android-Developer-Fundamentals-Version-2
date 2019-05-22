@@ -1,0 +1,11 @@
+<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ListPreference
+        app:entries="@array/pref_market_titles"
+        app:entryValues="@array/pref_market_values"
+        app:key="sync_frequency"
+        app:defaultValue="US"
+        app:useSimpleSummaryProvider="true"
+        app:title="@string/pref_title_account" />
+
+</androidx.preference.PreferenceScreen>

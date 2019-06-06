@@ -11,9 +11,9 @@ Mahak Aggarwal
 # Additional Notes
 * __Android Version:__ Varies from project to project
 * __Android Studio Version:__ 3.1.4 and above (Android Studio is updated when a new stable version is released)
-* __Gradle Version:__ 4.4
-* __Target SDK Version:__ Varies from project to project
+* __Gradle Version:__ 4.4 and above
 
+All apps are made using java language.
 
 Projects for section 1.1 to 3.3 are from version 1 of the course. Not repeated because of similarities. These projects are mostly the same as version 2 but with minor changes. Projects after section 3.3 are from version 2 of the course. 
 Some projects (section 9.2 onwards) use AndroidX libraries instead of the now deprecated Android Support libraries.
@@ -53,5 +53,5 @@ Some projects in this repository will target Android API 19 and later while othe
 * 8.3 JobScheduler
 * 9.1 Shared preferences
 * 9.2 App settings
-* 10.1 Part A Room, LiveData, and ViewModel __(not complete yet)__
+* 10.1 Part A Room, LiveData, and ViewModel
 * 10.1 Part B Deleting data from a Room database __(not complete yet)__

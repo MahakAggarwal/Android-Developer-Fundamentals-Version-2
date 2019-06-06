@@ -13,7 +13,7 @@ Mahak Aggarwal
 * __Android Studio Version:__ 3.1.4 and above (Android Studio is updated when a new stable version is released)
 * __Gradle Version:__ 4.4 and above
 
-All apps are made using java language.
+All apps in this repository are made using java.
 
 Projects for section 1.1 to 3.3 are from version 1 of the course. Not repeated because of similarities. These projects are mostly the same as version 2 but with minor changes. Projects after section 3.3 are from version 2 of the course. 
 Some projects (section 9.2 onwards) use AndroidX libraries instead of the now deprecated Android Support libraries.

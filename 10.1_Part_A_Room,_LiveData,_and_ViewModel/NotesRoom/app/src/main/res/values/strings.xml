@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes Room</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_a_new_note">Create a new note</string>
+    <string name="note_title">Note title</string>
+    <string name="clear">Clear</string>
+    <string name="save">Save</string>
+    <string name="note_content">Note content</string>
+    <string name="no_notes">No notes</string>
+</resources>

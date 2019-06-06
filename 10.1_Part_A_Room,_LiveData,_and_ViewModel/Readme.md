@@ -12,6 +12,8 @@
 * Task 10: Populate the database -->*(Project: RoomWordsSample)*
 * Task 11: Connect the UI with the data -->*(Project: RoomWordsSample)*
 * Task 12: Create an Activity for adding words -->*(Project: RoomWordsSample)*
-* Homework -->*(Project: RoomQuestionsAnswers)*
+* Homework -->*(Project: NotesRoom)*
 
 Note: projects use AndroidX libraries instead of Android Support libraries.
+
+Homework: the homework app is a notes app which allows the user to create and view simple notes. It does not have a delete functionality yet.

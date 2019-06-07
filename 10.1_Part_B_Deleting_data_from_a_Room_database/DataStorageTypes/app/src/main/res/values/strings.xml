@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Data Storage Types</string>
+    <string name="storage_types">Storage Types</string>
+    <string name="savedInstanceStateText">Saved Instance State: data is lost when app is closed and reopened.</string>
+    <string name="enter_text_to_be_saved">Enter text to be saved</string>
+    <string name="text_saved">Text Saved:</string>
+    <string name="save_all">Save All</string>
+    <string name="shared_pref_text">Shared Preferences: Small amounts of values can be stored as key value pairs. They persist even if the app is closed and reopened.</string>
+    <string name="room_text">Room Database: large amounts of data can be stored in SQLite database. These values persist even if the app is closed and reopened.</string>
+</resources>

@@ -16,13 +16,11 @@ Mahak Aggarwal
 All apps in this repository are made using java.
 
 Projects for section 1.1 to 3.3 are from version 1 of the course. Not repeated because of similarities. These projects are mostly the same as version 2 but with minor changes. Projects after section 3.3 are from version 2 of the course. 
-Some projects (section 9.2 onwards) use AndroidX libraries instead of the now deprecated Android Support libraries.
-
-Also note that this repository is a work in progress and I will be adding more tasks and coding challenges as I finish them.
+Some projects (section 9.2 onwards) use AndroidX libraries instead of the deprecated Android Support libraries.
 
 
 # Android Version (Target API)
-Some projects in this repository will target Android API 19 and later while others will target API 21 and later.
+Some projects in this repository target Android API 19 and later while others target API 21 and later.
 
 # Contents
 * 1.1 Android Studio and Hello World
@@ -54,4 +52,4 @@ Some projects in this repository will target Android API 19 and later while othe
 * 9.1 Shared preferences
 * 9.2 App settings
 * 10.1 Part A Room, LiveData, and ViewModel
-* 10.1 Part B Deleting data from a Room database __(not complete yet)__
+* 10.1 Part B Deleting data from a Room database

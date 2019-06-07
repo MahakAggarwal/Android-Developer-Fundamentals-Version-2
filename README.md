@@ -18,6 +18,8 @@ All apps in this repository are made using java.
 Projects for section 1.1 to 3.3 are from version 1 of the course. Not repeated because of similarities. These projects are mostly the same as version 2 but with minor changes. Projects after section 3.3 are from version 2 of the course. 
 Some projects (section 9.2 onwards) use AndroidX libraries instead of the deprecated Android Support libraries.
 
+The repository is complete and all projects work properly as intented.
+
 
 # Android Version (Target API)
 Some projects in this repository target Android API 19 and later while others target API 21 and later.
